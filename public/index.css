@@ -1,0 +1,13 @@
+h2{
+    color: orange;
+}
+.picture{
+    height: 200px;
+    width: 200px;
+    background:url('../public/img/2.png') no-repeat;
+}
+.bigImg{
+    height:400px;
+    width:400px;
+    background:url('../public/img/html.jpg') no-repeat;
+}
